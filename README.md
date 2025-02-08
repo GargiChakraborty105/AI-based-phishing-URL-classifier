@@ -23,7 +23,6 @@ This project is an **AI-driven phishing URL classifier** that analyzes URLs and 
 ### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/GargiChakraborty105/AI-based-phishing-URL-classifier.git
-cd phishing-url-classifier
 ```
 
 ### 2️⃣ Install Dependencies
